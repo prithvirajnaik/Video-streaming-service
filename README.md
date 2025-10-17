@@ -376,17 +376,7 @@ GET /health
    - Change PORT in `.env`
    - Kill process using the port: `lsof -ti:3000 | xargs kill -9`
 
-## 📄 License
 
-MIT License - feel free to use this project for learning and development purposes.
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
 
 ---
 
